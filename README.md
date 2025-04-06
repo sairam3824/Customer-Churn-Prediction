@@ -103,4 +103,4 @@ Contributions are welcome! If you'd like to contribute, please follow these step
 5. Open a pull request.
 
 ## Contact
-For questions or feedback, please reach out to the project maintainer at [sariram.murari@gmail.com].
+For questions or feedback, please reach out to the project maintainer at [sairam.murari@gmail.com].

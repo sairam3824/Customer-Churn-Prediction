@@ -2,8 +2,8 @@
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![Machine Learning](https://img.shields.io/badge/Machine-Learning-orange)
-![Pandas](https://img.shields.io/badge/Pandas-Data-Analysis-green)
-![Scikit-learn](https://img.shields.io/badge/Scikit-learn-ML-blue)
+![Pandas](https://img.shields.io/badge/Pandas-Data_Analysis-green)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-ML-blue)
 
 This repository contains the code and resources for predicting customer churn using various machine learning models. The project aims to identify customers who are likely to stop using a service, which is crucial for businesses to retain customers and improve customer satisfaction.
 
@@ -84,8 +84,8 @@ To run this project locally, follow these steps:
    pip install pandas scikit-learn matplotlib seaborn xgboost
 3. **Run the Jupyter Notebook**:
   ```bash
-  jupyter notebook Customer_Churn_Prediction.ipynb
-```
+   jupyter notebook Customer_Churn_Prediction.ipynb
+  ```
 ## Usage
 
 1. Open the Jupyter Notebook `Customer_Churn_Prediction.ipynb`.

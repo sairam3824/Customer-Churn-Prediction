@@ -101,3 +101,6 @@ Contributions are welcome! If you'd like to contribute, please follow these step
 3. Commit your changes (`git commit -m 'Add some feature'`).
 4. Push to the branch (`git push origin feature/YourFeatureName`).
 5. Open a pull request.
+
+## Contact
+For questions or feedback, please reach out to the project maintainer at [sariram.murari@gmail.com].

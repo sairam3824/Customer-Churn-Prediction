@@ -83,9 +83,9 @@ To run this project locally, follow these steps:
    ```bash
    pip install pandas scikit-learn matplotlib seaborn xgboost
 3. **Run the Jupyter Notebook**:
-  ```bash
+   ```bash
    jupyter notebook Customer_Churn_Prediction.ipynb
-  ```
+   ```
 ## Usage
 
 1. Open the Jupyter Notebook `Customer_Churn_Prediction.ipynb`.
